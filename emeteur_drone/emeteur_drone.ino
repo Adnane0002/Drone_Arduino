@@ -1,4 +1,19 @@
-// 4 Channel Transmitter |
+/*
+Last edit : 13-06-2022
+
+AIAC Aeroelc Club
+Adnane Lamnaouar
+Khaoula ElMimouni
+Nadia Ait Hmad
+
+4 Channel Transmitter using NRF24L01 module
+
+
+Platform : Arduino Nnano
+Inspired by Electronoobs RC Plane project
+
+*/
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
